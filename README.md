@@ -117,7 +117,7 @@ This project is available for educational and personal use.
 
 ## About the Developer
 
-This project was built by **Noel Malonzo** ([@ncmkno](https://github.com/ncmkno)) as part of the Boot.dev learning journey.
+This project was built by ([@ncmkno](https://github.com/ncmkno)) as part of the Boot.dev learning journey.
 
 ### Boot.dev Profile: [mushypermit51](https://www.boot.dev/u/mushypermit51)
 
